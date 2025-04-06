@@ -5,7 +5,7 @@ Collection of my solutions to the NeetCode 150 LeetCode Problem Set. LeetCode Pr
 ### Repository Structure:
 
 - Different directories for each section in NeetCode 150 problem set in `solutions`
-- Directory containing solution within `solutions`: `name-of-problem`
+- Directory containing solution within `solutions`/`name-of-problem`
 
 # Table of Contents
 
